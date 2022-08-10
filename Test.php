@@ -15,6 +15,8 @@
       }
 
       echo "The result from the function is ".test();
+    
+      echo "hello there";
     ?>
 
   </body>
